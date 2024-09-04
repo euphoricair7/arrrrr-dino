@@ -30,9 +30,8 @@ void loop() {
     cardID.concat(String(mfrc522.uid.uidByte[i], HEX));
   }
   Serial.println();
-  //mfrc522.PICC_HaltA();
-  //mfrc522.PCD_StopCrypto1();
 
   //card 83 5A F6 19
+  //key 13 10 D2 0E
   
 }
