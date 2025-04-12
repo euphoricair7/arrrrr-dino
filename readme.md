@@ -10,7 +10,6 @@ This project involves setting up a TLS server and client for secure communicatio
 - `servercode.py`: Basic TLS server example.
 - `reading_uid_from_rfid_tag.ino`: Arduino code for reading UID from RFID tags.
 - `readfromfb.py`: Reads data from Firebase Firestore.
-- `rfid-db-5d32b-firebase-adminsdk-dbval-d4136a83f1.json`: Firebase service account credentials.
 - `server.key`: TLS server private key.
 - `server.crt`: TLS server certificate.
 
